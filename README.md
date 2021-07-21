@@ -29,3 +29,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="11ty" width="26px" src="https://raw.githubusercontent.com/github/explore/5b2680c3a2b1a19ad49dfc354d2ccc6c1c333381/topics/eleventy/eleventy.png" />
+<img align="left" alt="malvid" width="26px" src="https://avatars.githubusercontent.com/u/39945827?s=200&v=4" />
+<img align="left" alt="Netlify" width="26px" src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" />
+
